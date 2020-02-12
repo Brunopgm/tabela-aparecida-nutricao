@@ -145,7 +145,7 @@ button[disabled=disabled], button:disabled {
 
 .fadeOut{
 	opacity: 0;
-	transition: 5s;	
+	transition: 1s;	
 }
 .invisivel{
 	display: none;
