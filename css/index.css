@@ -132,3 +132,21 @@ button[disabled=disabled], button:disabled {
 .campo-invalido{
 	border: 1px solid red;
 }
+
+.paciente-invalido{
+	color: red;
+}
+
+#filtrar-tabela{
+	width: 250px;
+	margin-bottom: 10px;
+
+}
+
+.fadeOut{
+	opacity: 0;
+	transition: 5s;	
+}
+.invisivel{
+	display: none;
+}
