@@ -1,7 +1,7 @@
 var pacientes = document.querySelector("#tabela-pacientes")
 
 pacientes.addEventListener("dblclick", function(event){
-    console.log(event.target.parentNode);
+    
     var paciente = pacientes.querySelectorAll(".paciente")
     
     paciente.forEach(pacienteAtual => {
